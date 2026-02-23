@@ -12,6 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="DTO\" />
+    <Folder Include="Extensions\" />
     <Folder Include="Middleware\" />
   </ItemGroup>
 
